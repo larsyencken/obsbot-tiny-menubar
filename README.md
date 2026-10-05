@@ -30,3 +30,7 @@ The app sends vendor commands over the camera's UVC Extension Unit (unit 2), usi
 | Sleep / wake | 2 | V3 frame, cmd `0xA0C2`, payload `01`/`00` |
 
 The app opens the device for each command and closes it straight after, so OBSBOT Center can still be used. If both send commands at the same moment, one of them gets an "in use" error.
+
+## License
+
+MIT. See [LICENSE](LICENSE).

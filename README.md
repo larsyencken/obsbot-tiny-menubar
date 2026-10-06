@@ -1,3 +1,5 @@
+<p align="center"><img src="Resources/AppIcon.svg" width="160" alt="ObsbotBar icon"></p>
+
 # ObsbotBar
 
 Menu bar app for the OBSBOT Tiny 2 on macOS: sleep, wake, and Normal (face-following) tracking. It works without OBSBOT Center.
